@@ -13,6 +13,7 @@
     <section>
         <h2>Informasi Pribadi</h2>
         <p>Nama: [Irvan Ariawan]</p>
+        <p>Npm: [E1G022004]
         <p>Email: [irvanariawan345@gmail.com]</p>
         <p>No. Telepon: [085783463417]</p>
         <p>Alamat: [Gang damai unib belakang bengkulu]</p>
